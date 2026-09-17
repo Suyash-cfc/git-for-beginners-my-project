@@ -1,7 +1,4 @@
-Welcome to my project!!
-<<<<<<< HEAD
-Author:Thomas Huber
-=======
-Author:Thomas Claudius
->>>>>>> feature/middlename
+Welcome to the "git for beginners" my project!!
+
+Author:Thomas Claudius Huber
 Twitter : @suyashdhumne
