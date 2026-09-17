@@ -1,3 +1,3 @@
 Welcome to my project!!
-Author:Thomas
+Author:Thomas Claudius
 Twitter : @suyashdhumne
